@@ -15,12 +15,12 @@ rss        = true
 [author]
 name     = "Pedro Arvela"
 email    = "jp.arvela@gmail.com"
-github   = "PedroArvela"
+github   = "ThisIsFroggie"
 gitlab   = "PedroArvela"
 linkedIn = "PedroArvela"
 medium   = "@PedroArvela"
-twitter  = "PedroArvela"
-mastodon = "mastodon.online/@PedroArvela"
+twitter  = "this_is_froggie"
+mastodon = "hachyderm.io/@ThisIsFroggie"
 
 [[menu.main]]
 name    = "Home"
