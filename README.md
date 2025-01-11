@@ -11,7 +11,7 @@ This website uses [Hugo](https://gohugo.io/) and [Beautiful Hugo](https://github
 Requires [Hugo](https://gohugo.io/) to be installed.
 
 ```sh
-git submodule update --init --recursive
+hugo mod get
 hugo
 ```
 
