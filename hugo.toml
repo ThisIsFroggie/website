@@ -6,11 +6,12 @@ title = 'Pedro Arvela'
 [Params]
   logo       = "img/profile.jpg"
   subtitle   = "DevOps Engineer"
+  dateformat = "2 Jan, 2006"
+  commit = false
+  rss = true
 
   [Params.author]
     name = "Pedro Arvela"
-    dateformat = "2 Jan, 2006"
-    website = "https://arvela.pt/"
     email    = "jp.arvela@gmail.com"
     github   = "ThisIsFroggie"
     linkedIn = "PedroArvela"
