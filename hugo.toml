@@ -1,0 +1,35 @@
+baseURL = 'https://arvela.pt/'
+languageCode = 'en-us'
+theme        = "github.com/halogenica/beautifulhugo"
+title = 'Pedro Arvela'
+
+[Params]
+  logo       = "img/profile.jpg"
+  subtitle   = "DevOps Engineer"
+
+  [Params.author]
+    name = "Pedro Arvela"
+    dateformat = "2 Jan, 2006"
+    website = "https://arvela.pt/"
+    email    = "jp.arvela@gmail.com"
+    github   = "ThisIsFroggie"
+    linkedIn = "PedroArvela"
+    medium   = "PedroArvela"
+
+[[module.imports]]
+  path = "github.com/halogenica/beautifulhugo"
+
+[[menu.main]]
+name    = "Home"
+url     = "/"
+weight  = 1
+
+[[menu.main]]
+name = "Blog (Medium)"
+url = "https://medium.com/@PedroArvela"
+weight = 50
+
+[[menu.main]]
+name    = "Resume (PDF)"
+url     = "/assets/pedro-arvela-resume.pdf"
+weight  = 100
