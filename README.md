@@ -1,6 +1,6 @@
 # Arvela.pt
 
-![Buld Status](https://github.com/PedroArvela/website/actions/workflows/hugo.yaml/badge.svg)
+![Build Status](https://github.com/ThisIsFroggie/website/actions/workflows/hugo.yaml/badge.svg)
 
 This is the repository for the website [arvela.pt](https://arvela.pt).
 

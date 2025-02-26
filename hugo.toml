@@ -1,7 +1,7 @@
 baseURL = 'https://arvela.pt/'
 languageCode = 'en-us'
 theme        = "github.com/halogenica/beautifulhugo"
-title = 'Pedro Arvela'
+title = 'Sofia Arvela'
 
 [Params]
   logo       = "img/profile.jpg"
@@ -11,11 +11,10 @@ title = 'Pedro Arvela'
   rss = true
 
   [Params.author]
-    name = "Pedro Arvela"
-    email    = "jp.arvela@gmail.com"
+    name = "Sofia Arvela"
     github   = "ThisIsFroggie"
-    linkedIn = "PedroArvela"
-    medium   = "PedroArvela"
+    linkedIn = "SofiaArvela"
+    medium   = "SofiaArvela"
 
 [[module.imports]]
   path = "github.com/halogenica/beautifulhugo"
@@ -26,11 +25,11 @@ url     = "/"
 weight  = 1
 
 [[menu.main]]
-name = "Blog (Medium)"
-url = "https://medium.com/@PedroArvela"
-weight = 50
+name = "Blog"
+url  = "/posts/"
+weight = 20
 
 [[menu.main]]
 name    = "Resume (PDF)"
-url     = "/assets/pedro-arvela-resume.pdf"
+url     = "/assets/sofia-arvela-cv.pdf"
 weight  = 100
