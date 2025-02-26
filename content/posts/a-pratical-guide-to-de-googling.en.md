@@ -4,11 +4,11 @@ draft = true
 title = 'A pratical guide to de-googling'
 +++
 
-Google is a privacy hellscape, abusing your personal data to sell ads and train their AI, serving
-contracts to the ICE in the US and to the IDF in Israel, aligning itself with Trump’s government, as
-well as so many other issues. From a privacy, ecological and ethical standpoint, it's in our best
-interest to move away and even boycott their services. But they're entrenched in so many parts of
-our daily lives, that doing so can be terrifying. This is my attempt at making it possible.
+Google is a privacy hellscape, abusing your personal data to sell ads and train their AI, signing
+contracts with dubious entities, as well as so many other issues. From a privacy, ecological and
+ethical standpoint, it's in our best interest to move away and even boycott their services. But
+they're entrenched in so many parts of our daily lives, that doing so can be terrifying. This is my
+attempt at making it possible.
 
 Special mention goes to [Janet Vertesi](https://hachyderm.io/@cyberlyra) and her work [The Cyber
 Cleanse - Opt Out
@@ -433,3 +433,7 @@ But even if you don’t get to a point where you can delete your Google account 
 your usage of them has an impact, it makes them less powerful and it has an influence, so any small
 change and small cleanup you do is a win. Using very small steps at a time, you will be able to
 slowly detangle Google from your life.
+
+---
+
+_The opinions expressed in this website are my own and may not reflect the views of my employer._
