@@ -1,6 +1,6 @@
 +++
 date = '2025-03-04T13:20:00Z'
-title = 'A pratical guide to de-googling'
+title = 'A practical guide to de-googling'
 +++
 
 For quite a few years now Google has been having dubious and problematic behaviors. It's been spying
