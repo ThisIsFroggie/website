@@ -15,6 +15,7 @@ rss = true
 [Params.author]
 name = "Sofia Arvela"
 github = "ThisIsFroggie"
+mastodon = "https://hachyderm.io/@ThisIsFroggie"
 linkedIn = "SofiaArvela"
 medium = "SofiaArvela"
 
