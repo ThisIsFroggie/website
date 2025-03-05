@@ -3,6 +3,9 @@ date = '2025-03-04T13:20:00Z'
 title = 'A practical guide to de-googling'
 +++
 
+_If you like my article, comment on it on
+[Mastodon](https://hachyderm.io/@ThisIsFroggie/114110098575558753)!_
+
 For quite a few years now Google has been having dubious and problematic behaviors. It's been spying
 on users who opted out of data collection[^spying], secretly having contracts with the ICE[^ice] and
 the IDF[^idf], to rigging the ads business with Meta to favor each other against other ad
