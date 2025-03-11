@@ -1,6 +1,8 @@
 +++
 date = '2025-03-04T13:20:00Z'
 title = 'A practical guide to de-googling'
+url = 'posts/a-practical-guide-to-de-googling'
+bigimg = [{src = "/img/posts/2025/03/banner.jpg"}]
 +++
 
 For quite a few years now Google has been having dubious and problematic behaviors. It's been spying
