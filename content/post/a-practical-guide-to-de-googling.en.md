@@ -1,8 +1,9 @@
 +++
-date = '2025-03-04T13:20:00Z'
 title = 'A practical guide to de-googling'
 url = 'posts/a-practical-guide-to-de-googling'
 bigimg = [{src = "/img/posts/2025/03/banner.jpg"}]
+date = '2025-03-04T13:20:00Z'
+lastmod = '2025-03-11T22:00:00Z'
 +++
 
 For quite a few years now Google has been having dubious and problematic behaviors. It's been spying
@@ -97,7 +98,7 @@ private alternatives, but using them might cause websites to break too much.
 Because Firefox might rarely not work with some webpages, having a backup browser is a reasonable
 option. [Vivaldi](https://vivaldi.com/) is a Norwegian Chrome-based web browser, and while using a
 Chrome based browser isn’t as good as using Firefox, it’s a good fallback when Firefox doesn’t work,
-and it doesn’t send your data to Google (although you might have to tweak its privacy settings).
+and it doesn’t send your data to Google.
 
 To migrate all of your data [you will need to use a
 PC](https://support.mozilla.org/en-US/kb/import-bookmarks-google-chrome). On first use, Firefox will
