@@ -3,7 +3,7 @@ title = 'A practical guide to de-googling'
 url = 'posts/a-practical-guide-to-de-googling'
 bigimg = [{src = "/img/posts/2025/03/banner.jpg"}]
 date = '2025-03-04T13:20:00Z'
-lastmod = '2025-03-11T22:00:00Z'
+lastmod = '2025-03-19T22:00:00Z'
 +++
 
 For quite a few years now Google has been having dubious and problematic behaviors. It's been spying
@@ -58,9 +58,9 @@ tech company. It might still be worth it for the privacy preserving changes thes
 though.
 
 - [Qwant](https://www.qwant.com/) is a French search engine that has its own search index. It's also
-  **the only search engine that I found that doesn't fully rely on Google or Bing under the hood**,
-  having its own indexing. It only falls back to Bing when it doesn't have enough information for
-  your search.
+  **the only search engine that I found that doesn't fully rely on Google or Bing under the
+  hood**[^qwantindependence], having its own indexing. It only falls back to Bing when it doesn't
+  have enough information for your search.
 - [Ecosia](https://www.ecosia.org/) is a search engine by a German non-profit that uses Bing and
   plants trees for every search you make.
 - [DuckDuckGo](https://duckduckgo.com/) is an U.S. based search engine that uses Bing and anonymizes
@@ -272,11 +272,12 @@ open-source office suite maintained by an independent community and led by a Ger
 And [Collabora Office](https://www.collaboraonline.com/collabora-office-android-ios/) for mobile, a
 product from a British company, based on the LibreOffice code.
 
-If you need the real time collaboration features, [OnlyOffice
-Docs](https://www.onlyoffice.com/office-suite.aspx) seems the most fully featured of the
-options. [Proton Drive](https://proton.me/drive) has limited support for written documents, but no
-spreadsheet or presentation support. [Murena](https://murena.com/workspace/) also supports real time
-collaboration, based on the OnlyOffice code.
+If you need the real time collaboration features, [CryptPad](https://cryptpad.fr/) seems to be the
+most fully featured of the options, next to [OnlyOffice
+Docs](https://www.onlyoffice.com/office-suite.aspx). [Proton Drive](https://proton.me/drive) has
+limited support for written documents, but no spreadsheet or presentation support.
+[Murena](https://murena.com/workspace/) also supports real time collaboration, based on the
+OnlyOffice code.
 
 The biggest caveat is that for people to do real time collaborative editing, they will need to make
 an account in the platform you use, which might be a source of attrition. If you have existing
@@ -319,7 +320,7 @@ alternative syncthing app for Android appears, I will update this article.
 Google Keep is very practical, but there are alternatives!
 
 - [Joplin](https://joplinapp.org/) is a note taking app with end-to-end encryption, maintained by
-  British developer Laurent Cozic.
+  French developer Laurent Cozic.
 - [Standard Notes](https://standardnotes.com/) is the app developed by Proton with end-to-end
   encryption. Disclaimer, unlike all other products in the Proton family, this one requires a
   separate subscription for the paid features (but it does have a free tier).
@@ -459,6 +460,11 @@ your life.
 _If you like my article, comment on it on
 [Mastodon](https://hachyderm.io/@ThisIsFroggie/114110098575558753)!_
 
+_Changelog:_
+
+* 2025-03-19: Added a source on Qwant's independent indexing, fixed a factual error in Joplin's
+  section. Added CryptPad to the Docs alternatives.
+
 [^spying]: Jon Brodkin, "Google loses in court, faces trial for collecting data on users who opted
     out," Ars Technica, January 9, 2025,
     https://arstechnica.com/tech-policy/2025/01/google-loses-in-court-faces-trial-for-collecting-data-on-users-who-opted-out/
@@ -471,8 +477,11 @@ _If you like my article, comment on it on
 [^jedi]: Natasha Lomas, "‘Jedi Blue’ ad deal between Google and Facebook sparks new antitrust probes
     in EU and UK," TechCrunch, March 11, 2022,
     https://techcrunch.com/2022/03/11/google-meta-jedi-blue-eu-uk-antitrust-probes/
-[^enshittification]: Cory Doctorow, "How monopoly enshittified Amazon," Nov 28, 2022,
+[^enshittification]: Cory Doctorow, "How monopoly enshittified Amazon," November 28, 2022,
     https://doctorow.medium.com/how-monopoly-enshittified-amazon-83f42a585c3c
+[^qwantindependence]: Team Qwant, "Web indexing: where is Qwant’s independence?," Qwant News,
+    September 18, 2023,
+    https://betterweb.qwant.com/en/2023/09/18/web-indexing-where-is-qwants-independence/
 [^worse]: Thomas Germain, "You’re Not Imagining It: Google Search Results Are Getting Worse, Study
     Finds," Gizmodo, January 17, 2024,
     https://gizmodo.com/google-search-results-are-getting-worse-study-finds-1851172943
